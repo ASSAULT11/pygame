@@ -1,7 +1,3 @@
-print("俺といえば？") #コメントアウト！！
+print("俺の名前は？") #コメントアウト！！
 name = input()
 print("俺は" + name + "！！")
-
-print("セフィロスと言えば？")
-name = input()
-print(name + "!!")
